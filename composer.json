@@ -1,0 +1,6 @@
+{
+    "name": "developer/afflix.io",
+    "require": {
+        "rankmath/seo-by-rank-math" : "1.0.62"
+    }
+}
